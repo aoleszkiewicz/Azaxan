@@ -1,6 +1,3 @@
-<h1 align="center">hi 👋, i'm Aleksander Oleszkiewicz</h1>
-<h3 align="center">Young & passionate developer from Poland</h3>
-
 - 🚀 i’m currently working on <a href="https://github.com/Azaxan/notes-app" target="_blank">notes-app</a>
 
 - 🧠 i’m currently learning **Typescript, Angular & Node.js**
