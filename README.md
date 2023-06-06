@@ -1,7 +1,3 @@
-- 🚀 i’m currently working on <a href="https://github.com/Azaxan/notes-app" target="_blank">notes-app</a>
-
-- 🧠 i’m currently learning **Typescript, Angular & Node.js**
-
 - 📫 how to reach me <br>
     -> <i>**via**</i> **<a target="_blank" href="https://discordapp.com/users/823186277871779853">Discord</a>** <br>
     -> <i>**via**</i> **<a target="_blank" href="mailto:aleksander.oleszkiewicz0@gmail.com">Email</a>** <br>
