@@ -1,4 +1,4 @@
-- 📫 Contact <br>
+- 📫 reach me via: <br>
     -> **<a target="_blank" href="https://discordapp.com/users/823186277871779853">Discord</a>** <br>
     -> **<a target="_blank" href="mailto:aleksander.oleszkiewicz0@gmail.com">Email</a>** <br>
     -> **<a target="_blank" href="https://www.linkedin.com/in/aleksander-oleszkiewicz-9b209a250/">Linkedin</a>**
