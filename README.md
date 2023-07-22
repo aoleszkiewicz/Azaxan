@@ -1,7 +1,7 @@
-- 📫 how to reach me <br>
-    -> <i>**via**</i> **<a target="_blank" href="https://discordapp.com/users/823186277871779853">Discord</a>** <br>
-    -> <i>**via**</i> **<a target="_blank" href="mailto:aleksander.oleszkiewicz0@gmail.com">Email</a>** <br>
-    -> <i>**via**</i> **<a target="_blank" href="https://www.linkedin.com/in/aleksander-oleszkiewicz-9b209a250/">Linkedin</a>**
+- 📫 Contact <br>
+    -> **<a target="_blank" href="https://discordapp.com/users/823186277871779853">Discord</a>** <br>
+    -> **<a target="_blank" href="mailto:aleksander.oleszkiewicz0@gmail.com">Email</a>** <br>
+    -> **<a target="_blank" href="https://www.linkedin.com/in/aleksander-oleszkiewicz-9b209a250/">Linkedin</a>**
 
 <p align="left">
 </p>
